@@ -2,7 +2,7 @@
   "name": "semcostyle-us",
   "description": "Project",
   "version": "1.1.3",
-  "author": "Justin Costa @justinpcosta",
+  "author": "Alex Johnson @asonj",
   "dependencies": {
     "axios": "^0.20.0",
     "bootstrap": "^4.5.2",

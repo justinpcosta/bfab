@@ -1,0 +1,22 @@
+---
+templateKey: index-page
+title: Baker Fabrication
+titleSEO: BFAB
+backgroundImage: /img/background.jpg
+content: >-
+  # Welcome to Baker Fabrication  
+
+  Located in the Central Valley 25 min West of Bakersfield in Valley Acres Ca. Specializing in Off-Road Fabrication and Asphalt and Dirt oval race cars and various other types of metal fabrication.  
+  
+  From your Daily driver, to your complete race truck we build and repair all types of components on your vehicle or race car or all other various welding & Fabrication needs.  
+  
+  With years of experience in Desert racing and multiple other racing divisions such as IMCA, USAC, SNORE, M.O.R.E.  
+  
+  Let Baker Fabrication take care of your needs.  
+
+someList:
+  - title: List Item 1
+    description: Description 1
+  - title: List Item 2
+    description: Description 2
+---

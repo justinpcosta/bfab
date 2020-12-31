@@ -157,7 +157,9 @@ footer.footer {
   height: 100%;
   max-height: 265px;
   position: relative;
-  overflow: hidden !important;
+  overflow: hidden !important; }
+
+.full-width-image-container {
   height: 400px;
   position: relative;
   left: 50%;

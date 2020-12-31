@@ -60,7 +60,7 @@ export default function Instagram() {
                     {/* <p>CAPTION: {post.caption}</p> */}
                     {/* <p>LIKES: {post.likes}</p> */}
                     <Col xs={6} sm={6} lg={3} >
-                    <img src={post.original} className="instaImg shadow"/>
+                    <img src={post.original} className="instaImg"/>
                     </Col>
                     {/* <img src={post.thumbnail} /> */}
                     {/* optimized image but smaller 300x300 */}

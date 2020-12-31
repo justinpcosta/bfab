@@ -63,7 +63,7 @@
 /******/
 /******/ 	var hotApplyOnUpdate = true;
 /******/ 	// eslint-disable-next-line no-unused-vars
-/******/ 	var hotCurrentHash = "91e2cfe180c1815e6668";
+/******/ 	var hotCurrentHash = "775a841b4bc7f6149736";
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule;
@@ -9980,7 +9980,7 @@ module.exports = (function() {
 
 // extracted by mini-css-extract-plugin
     if(true) {
-      // 1609372873152
+      // 1609420017411
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.i, {"hmr":true,"locals":false});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);
@@ -66691,7 +66691,7 @@ var _default = PreviewCompatibleImage;
 
 // extracted by mini-css-extract-plugin
     if(true) {
-      // 1609372939271
+      // 1609420019862
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.i, {"hmr":true,"locals":false});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);
@@ -67575,7 +67575,7 @@ function SEO(_ref) {
       content: "SHAPING THE FUTURE OF WORK"
     }, {
       name: "image",
-      content: "https://semcostyle.us/img/og-image.png"
+      content: "src/img/logo.png"
     }, {
       itemprop: "name",
       content: title
@@ -67638,7 +67638,7 @@ SEO.defaultProps = {
   lang: "en",
   meta: [],
   description: "",
-  title: "Semco Style Institute"
+  title: "Baker Fabrication"
 };
 SEO.propTypes = {
   description: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.string,

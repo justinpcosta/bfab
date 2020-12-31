@@ -185,4 +185,31 @@ footer.footer {
   max-height: 265px;
   position: relative;
   overflow: hidden !important;
+  height: 400px;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin: 2em -50vw;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.full-width-image {
+  height: calc(100vh-60px);
+  margin-top: 60px;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@media screen and (max-width: 767px) {
+  .full-width-image {
+    max-width: 100%;
+    height: auto;
+    min-height: 600px;
+    margin-top: 3.5em;
+  }
 }

@@ -63,7 +63,7 @@
 /******/
 /******/ 	var hotApplyOnUpdate = true;
 /******/ 	// eslint-disable-next-line no-unused-vars
-/******/ 	var hotCurrentHash = "f2393a51da100c9eea6c";
+/******/ 	var hotCurrentHash = "91e2cfe180c1815e6668";
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule;
@@ -9980,7 +9980,7 @@ module.exports = (function() {
 
 // extracted by mini-css-extract-plugin
     if(true) {
-      // 1609360046556
+      // 1609372873152
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.i, {"hmr":true,"locals":false});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);
@@ -66691,7 +66691,7 @@ var _default = PreviewCompatibleImage;
 
 // extracted by mini-css-extract-plugin
     if(true) {
-      // 1609361655439
+      // 1609372939271
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.i, {"hmr":true,"locals":false});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);
@@ -68491,7 +68491,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
       columnNumber: 5
     }
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "full-width-image margin-top-0",
+    className: "full-width-image margin-top-0 mw-100",
     style: {
       backgroundImage: "url(" + (!!backgroundImage.childImageSharp ? backgroundImage.childImageSharp.fluid.src : backgroundImage) + ")",
       backgroundPosition: "center center",
@@ -68566,6 +68566,8 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
       columnNumber: 9
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_2__["Col"], {
+    xs: 12,
+    lg: 6,
     __self: _this,
     __source: {
       fileName: _jsxFileName,
@@ -68583,6 +68585,8 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
       columnNumber: 13
     }
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_2__["Col"], {
+    xs: 12,
+    lg: 6,
     __self: _this,
     __source: {
       fileName: _jsxFileName,
@@ -68669,7 +68673,7 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
       columnNumber: 13
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_2__["Card"].Body, {
-    className: "px-5 mx-5 py-5 ",
+    className: "px-md-5 mx-md-5 py-md-5 ",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
